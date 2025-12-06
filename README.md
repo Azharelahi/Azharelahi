@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Invoice Generator](https://azharelahi.github.io/statics-Deploy/)
+- 🔭 I’m currently working on [Subscription based API](github.com/Azharelahi/Subscription-based-Api)
 
 - 🌱 I’m currently learning **advanced DevOps practices, including CI/CD, Docker, and cloud deployment to complement my MERN stack development skills.**
 
@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **azharelahi321@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/11u4BgpizimUr0VM9wF_DPejln2bU5OFx/view?usp=drivesdk)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1WF9Mbz4BQQg0FxihzXumJC2ae5YzWinG/view?usp=sharing)
 
 - ⚡ Fun fact **I drink more chai/coffee than the number of commits I push each day.**
 
