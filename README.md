@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Subscription based API](github.com/Azharelahi/Subscription-based-Api)
+- 🔭 I’m currently working on [Subscription based API](https://github.com/Azharelahi/Subscription-based-Api)
 
 - 🌱 I’m currently learning **advanced DevOps practices, including CI/CD, Docker, and cloud deployment to complement my MERN stack development skills.**
 
