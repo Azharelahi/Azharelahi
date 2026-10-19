@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **azharelahi321@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1WF9Mbz4BQQg0FxihzXumJC2ae5YzWinG/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1upOhgbp-8HiWXCJamnJ2mTJIUtfsE5jo/view?usp=sharing)
 
 - ⚡ Fun fact **I drink more chai/coffee than the number of commits I push each day.**
 
