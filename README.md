@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [weather application](https://github.com/Azharelahi/weather_api)
+- 🔭 I’m currently working on [personal notes taking Application](https://github.com/Azharelahi/Personal-Markdown)
 
 - 🌱 I’m currently learning **advanced DevOps practices, including CI/CD, Docker, and cloud deployment to complement my MERN stack development skills.**
 
