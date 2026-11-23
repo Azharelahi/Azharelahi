@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [personal notes taking Application](https://github.com/Azharelahi/Personal-Markdown)
+- 🔭 I’m currently working on [Fintech Application](https://github.com/Azharelahi/Finance-Application)
 
 - 🌱 I’m currently learning **advanced DevOps practices, including CI/CD, Docker, and cloud deployment to complement my MERN stack development skills.**
 
