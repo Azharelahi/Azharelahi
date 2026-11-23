@@ -38,7 +38,7 @@ Email me ✉️ **azharelahi321@gmail.com** for collaboration, projects or anyth
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Azharelahi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Developer Quote
+### ✍️ Once A Master Said
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
