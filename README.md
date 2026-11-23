@@ -41,8 +41,10 @@ Email me ✉️ **azharelahi321@gmail.com** for collaboration, projects or anyth
 ### ✍️ Once A Master Said
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Azharelahi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo's
+
+[![Books](https://github-readme-stats.shion.dev/api/pin/?username=Azharelahi&repo=Books&theme=radical)](https://github.com/Azharelahi/Books)
+[![Finance Application](https://github-readme-stats.shion.dev/api/pin/?username=Azharelahi&repo=Finance-Application&theme=radical)](https://github.com/Azharelahi/Finance-Application)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Azharelahi&icon=0&color=0)](https://visitcount.itsvg.in)
